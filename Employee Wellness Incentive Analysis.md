@@ -96,7 +96,7 @@ a.Reason = r.Reason_ID;
    - Employee health is assessed through Body Mass Index (BMI) classifications, identifying underweight, healthy weight, overweight, and obese categories.
 
 ## Dashboard Snapshot
-- ONW
+![absenteeism](https://github.com/user-attachments/assets/aba02fb9-188a-4b36-b5c9-f5c660d1347b)
 
 ## Data Source
 - **Dataset Name**: Employee Health & Absenteeism Data
