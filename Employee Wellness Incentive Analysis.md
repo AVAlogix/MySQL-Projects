@@ -14,7 +14,7 @@ The following steps were undertaken to process and analyze the dataset using Pow
    - Three card visuals were created to display key metrics, including average absenteeism time.
    - Four donut charts were used to illustrate categorical distributions, such as education levels, smoking status, pet ownership, and alcohol consumption.
    - Two line charts were designed to analyze absenteeism trends by month and day of the week.
-   - A table visual was created to display reasons for absenteeism, sorted in descending order with a gradient applied for clarity.
+   - A treemap was created to display reasons for absenteeism, sorted in descending order with a gradient applied for clarity.
    - A scatterplot visual was incorporated to examine the relationship between transportation expenses and daily workload.
    - A smart narrative visual was added to summarize the dashboard’s insights.
 3. **Dashboard Refinement**: Various graphical elements were fine-tuned to ensure coherence and usability.
@@ -83,7 +83,7 @@ a.Reason = r.Reason_ID;
    - Pie charts highlight absenteeism trends across various employee demographics, including education level, smoking status, drinking habits, and pet ownership.
 
 ### Absenteeism Trends
-   - Line charts reveal fluctuations in absenteeism by month and day of the week, with notable spikes on Mondays and Fridays.
+   - Line charts reveal fluctuations in absenteeism by month and day of the week, with notable spikes on Mondays (day 2).
 
 ### Absenteeism Causes
    - A bar graph categorizes reasons for employee absences, such as medical consultations, dental visits, and various health conditions. Understanding these causes can aid in developing targeted wellness programs.
