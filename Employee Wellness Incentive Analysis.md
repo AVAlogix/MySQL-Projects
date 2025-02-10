@@ -74,9 +74,6 @@ left join Reasons r on
 a.Reason = r.Reason_ID;
 ```
 
-## Power BI Dashboard
-- ONW
-
 ## Key Insights
 
 ### Employee Demographics & Absenteeism
