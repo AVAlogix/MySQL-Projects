@@ -1,5 +1,8 @@
 # Employee Wellness Incentive Analysis
 
+## Dashboard Snapshot
+![absenteeism](https://github.com/user-attachments/assets/aba02fb9-188a-4b36-b5c9-f5c660d1347b)
+
 ## Problem Statement
 The objective of this analysis is to leverage employee health and lifestyle data to implement a reward system that encourages a healthier workforce. The initiative focuses on two primary goals:
 
@@ -91,9 +94,6 @@ a.Reason = r.Reason_ID;
 ### Seasonal & Health Trends
    - Absenteeism data is analyzed across seasons to determine seasonal patterns.
    - Employee health is assessed through Body Mass Index (BMI) classifications, identifying underweight, healthy weight, overweight, and obese categories.
-
-## Dashboard Snapshot
-![absenteeism](https://github.com/user-attachments/assets/aba02fb9-188a-4b36-b5c9-f5c660d1347b)
 
 ## Data Source
 - **Dataset Name**: Employee Health & Absenteeism Data
